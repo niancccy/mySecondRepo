@@ -1,0 +1,17 @@
+{
+  "name": "day6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "airport-data": "^1.0.1",
+    "all-the-cities": "^3.1.0",
+    "distance-from": "^1.1.2",
+    "sunrise-sunset-js": "^2.1.2"
+  }
+}
